@@ -1,3 +1,3 @@
 # À la place
-**Voir** :
-[[Effets de remplacement]]
+**Voir** :  
+[[EffetsDeRemplacement|Effets de remplacement]]
