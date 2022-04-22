@@ -1,4 +1,4 @@
 # ATQ
-**Voir :**
-[[Attaque]]
-[[Pouvoir de base]]
+**Voir :**  
+[[Attaque]]  
+[[PouvoirDeBase|Pouvoir de base]]
