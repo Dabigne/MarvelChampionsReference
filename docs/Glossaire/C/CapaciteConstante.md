@@ -1,0 +1,4 @@
+# Capacité constante
+Une capacité constante désigne toute capacité (hors mots-clés) dont le texte ne contient pas d’indicatif de déclenchement en gras. Une capacité constante devient active dès que la carte entre en jeu et reste active tant que la carte est en jeu.
+- Certaines capacités constantes nécessitent continuellement une condition spécifique (traduite par des mots comme `«lors de»`, `«si»` ou `«tant que»`). Les effets de telles capacités sont actifs tant que la condition spécifique est remplie.
+- Si plusieurs instances de la même capacité constantes sont en jeu, chaque instance affecte la partie de manière indépendante.
