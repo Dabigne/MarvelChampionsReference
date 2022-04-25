@@ -5,5 +5,5 @@ Un joueur peut être soit sous forme de héros, soit sous forme d’alter ego. I
 - Tant qu’un joueur est sous forme de héros, les capacités de carte qui interagissent avec sa forme d’alter ego n’interagissent pas avec son identité.
 - Tant qu’un joueur est sous forme d’alter ego, les capacités de carte qui interagissent avec sa forme de héros n’interagissent pas avec son identité.
 
-**Voir aussi :**
+**Voir aussi :**  
 [[Identite]]
