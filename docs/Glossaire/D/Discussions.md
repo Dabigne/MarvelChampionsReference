@@ -3,7 +3,7 @@ Les joueurs sont autorisés et encouragés à discuter ensemble pendant la parti
 
 > Les joueurs qui résolvent une carte Rencontre avec le mot-clé Péril n’ont pas le droit de consulter les autres joueurs.
 
-**Voir aussi :**
-[[Mots-clés]]
-[[Joueur]]
+**Voir aussi :**  
+[[Mots-clés]]  
+[[Joueur]]  
 [[Péril]]

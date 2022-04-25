@@ -1,3 +1,3 @@
 # «Chaque fois»
-**Voir :**
+**Voir :**  
 [[EffetsAlteration]]

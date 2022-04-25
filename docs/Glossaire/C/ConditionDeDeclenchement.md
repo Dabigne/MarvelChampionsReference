@@ -3,6 +3,6 @@ Une condition de déclenchement est une occurrence spécifique qui survient dura
 
 >Si une seule occurrence de jeu crée plusieurs conditions de déclenchement (comme une seule attaque qui ferait en sorte qu’un personnage subisse des dégâts et soit vaincu), ces conditions de déclenchement ouvrent une unique fenêtre d’interruption et une unique fenêtre de réponse. Durant chacune de ces fenêtres, les capacités qui se réfèrent à n’importe laquelle des conditions de déclenchement créées par l’occurrence peuvent être utilisées dans n’importe quel ordre.
 
-**Voir aussi :**
-[[Interruption]]
+**Voir aussi :**  
+[[Interruption]]  
 [[Réponse]]

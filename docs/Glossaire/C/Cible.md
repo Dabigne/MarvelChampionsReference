@@ -3,6 +3,6 @@ Si une fonction de jeu ou une capacité de carte est dirigée vers un élément 
 
 >Le terme `«choisir»` indique qu’une ou plusieurs cibles doivent être sélectionnées pour qu’une capacité soit résolue.
 
-**Voir aussi :**
-[[Capacite|Capacité]]
+**Voir aussi :**  
+[[Capacite|Capacité]]  
 [[Choisir]]

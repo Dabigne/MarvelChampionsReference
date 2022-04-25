@@ -9,8 +9,8 @@ Le coût en ressource d’une carte est la valeur numérique qui doit être pay�
 - Si un coût nécessite un élément de jeu qui n’est pas en jeu, le joueur qui paye le coût ne peut utiliser que des éléments de jeu qui se trouvent dans ses propres zones hors jeu.
 - Certaines capacités de cartes peuvent faire référence à un «coût supplémentaire». Un joueur doit payer tous les coûts supplémentaires en même temps que le coût d’origine, même si plusieurs cartes ou capacités ajoutent des coûts supplémentaires séparés. Un joueur ne peut pas payer individuellement le coût d’origine ou les coûts supplémentaires : s’il ne peut pas payer pour tous ces coûts en une seule fois, alors il n’en paye aucun et les effets associés à ces coûts ne se produisent pas.
 
-**Voir aussi :**
-[[Capacite]]
-[[Icône de Coût en Forme de Flèche]]
-[[Initier des Capacités]]
+**Voir aussi :**  
+[[Capacite]]  
+[[Icône de Coût en Forme de Flèche]]  
+[[Initier des Capacités]]  
 [[Mots-clés]]

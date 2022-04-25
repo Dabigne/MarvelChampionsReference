@@ -3,10 +3,10 @@ Après qu’un allié a attaqué, il subit des dégâts consécutifs égaux au n
 
 >Les dégâts consécutifs sont infligés après avoir résolu les capacités déclenchées par l’allié qui attaque ou qui contre.
 
-Voir aussi :
-[[Allie]]
-[[Attaque]]
-[[ContreContrer]]
-[[Degats]]
-[[Icônes]]
+Voir aussi :  
+[[Allie]]  
+[[Attaque]]  
+[[ContreContrer]]  
+[[Degats]]  
+[[Icônes]]  
 [[Pouvoir de base]]

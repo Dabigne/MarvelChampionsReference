@@ -15,13 +15,13 @@ Si une carte est hors jeu, son texte est inactif et ne peut pas affecter la part
 - Une carte quitte le jeu quand elle passe d’une zone en jeu à une zone hors jeu.
 - Si une carte est recto verso (car son texte de jeu est imprimé sur ses deux faces), la face cachée de cette carte est hors jeu.
 
-**Voir aussi :**
-[[Capacite]]
-[[Cible]]
-[[EntrerEnJeu]]
-[[Jouer]]
-[[Mettre de Côté]]
-[[Mettre en Jeu]]
-[[Pile de victoire]]
-[[Quitter le jeu]]
+**Voir aussi :**  
+[[Capacite]]  
+[[Cible]]  
+[[EntrerEnJeu]]  
+[[Jouer]]  
+[[Mettre de Côté]]  
+[[Mettre en Jeu]]  
+[[Pile de victoire]]  
+[[Quitter le jeu]]  
 [[Restrictions et permissions de jeu]]

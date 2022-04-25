@@ -6,7 +6,7 @@ Le verbe «choisir» indique qu’un joueur doit sélectionner un élément de j
 - Un effet qui peut choisir «n’importe quel nombre» de cibles ne se résout pas avec succès (et ne peut pas changer l’état de la partie) si le nombre de cibles choisies est égal à zéro.
 - Une carte n’est pas une cible éligible pour une capacité si la résolution de l’effet de la capacité ne change pas l’état de la carte.
 
-Voir aussi :
-[[Capacite]]
-[[Cible]]
+Voir aussi :  
+[[Capacite]]  
+[[Cible]]  
 [[Joueur]]

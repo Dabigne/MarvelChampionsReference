@@ -1,3 +1,3 @@
 # Contrôle
-**Voir :**
+**Voir :**  
 [[Propriété et contrôle]]

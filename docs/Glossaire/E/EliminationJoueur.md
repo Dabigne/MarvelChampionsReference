@@ -10,15 +10,15 @@ Quand un joueur est éliminé, les joueurs restants continuent à jouer la parti
 
 Si un joueur est éliminé au milieu de la résolution d’une capacité, résolvez la capacité en entier.
 
-**Voir aussi :**
-[[Attribuer]]
-[[Capacite]]
-[[CartesJoueur]]
-[[DeckJoueur]]
-[[Engager]]
-[[Gagner la partie]]
-[[Identité]]
-[[Joueur]]
-[[Points de vie]]
-[[Sbire]]
+**Voir aussi :**  
+[[Attribuer]]  
+[[Capacite]]  
+[[CartesJoueur]]  
+[[DeckJoueur]]  
+[[Engager]]  
+[[Gagner la partie]]  
+[[Identité]]  
+[[Joueur]]  
+[[Points de vie]]  
+[[Sbire]]  
 [[Zone de jeu d’un joueur]]

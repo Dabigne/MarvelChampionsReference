@@ -3,10 +3,10 @@ Lors de la troisième étape de la phase du Méchant, chaque joueur se voit attr
 
 >Si un joueur se voit attribuer une carte Rencontre lors de la troisième ou de la quatrième étape de la phase du Méchant, la carte Rencontre supplémentaire est ajoutée à la suite des cartes qui sont attribuées et révélées lors de ces mêmes étapes.
 
-**Voir aussi :**
-[[Cartes rencontre]]
-[[Capacité]]
-[[Deck]]
-[[Deck Rencontre]]
-[[Joueur]]
+**Voir aussi :**  
+[[Cartes rencontre]]  
+[[Capacité]]  
+[[Deck]]  
+[[Deck Rencontre]]  
+[[Joueur]]  
 [[Phase du Méchant]]

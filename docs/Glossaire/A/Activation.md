@@ -8,9 +8,9 @@ Il existe deux types d’activation des ennemis : une activation d’attaque et 
 - Si plusieurs ennemis s’activent contre vous simultanément, résolvez d’abord l’activation du méchant (s’il y en a une) dans l’ordre de votre choix, suivi par les activations des sbires dans l’ordre de votre choix.
 - Si un sbire activé quitte le jeu, l’activation de se sbire se termine immédiatement et aucune autre étape de cette activation ne se résout.
 
-**Voir aussi :**
-[[Boost]]
-[[AttaqueEnnemis]]
-[[Manigance (Activation des Ennemis)]]
-[[Sbire]]
+**Voir aussi :**  
+[[Boost]]  
+[[AttaqueEnnemis]]  
+[[Manigance (Activation des Ennemis)]]  
+[[Sbire]]  
 [[Phase de Méchant]]

@@ -12,7 +12,7 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 - La résolution des types de capacités suivants est obligatoire : capacités constantes, capacités «Mise en place», «Une fois révélée», «Une fois déjouée», «Une fois vaincu», «Interruption forcée», «Réponse forcée», «Boost» et les mots-clés. Si une capacité de l’un de ces types utilise le verbe «pouvoir», la partie de la capacité qui suit le verbe «pouvoir» est optionnelle.
 - La résolution des types de capacités suivants est optionnelle : «Action», «Interruption», «Réponse», «Ressource». Le joueur qui contrôle la carte qui possède la capacité optionnelle choisit ou non d’utiliser cette capacité au moment approprié.
 
-![[CapaciteConstante]]
+![[CapaciteConstante]]  
 ![[CapaciteDeclenchee]]
 
 Certaines capacités ont des priorités de timing par rapport à d’autres capacités.
@@ -23,22 +23,22 @@ L’ordre de priorités des capacités est le suivant :
 4. Capacités «Réponses forcée»
 5. Capacités «Réponse »
 
-**Voir aussi :**
-[[Action]]
-[[Annuler]]
-[[CapaciteUneFoisRevelee]]
-[[CapaciteUneFoisVaincuDejouee]]
-[[EffetsRemplacement]]
-[[EffetsRetardes]]
-[[EffetsPersistants]]
-[[EnJeuEtHorsJeu]]
-[[Ensuite]]
-[[Et]]
-[[Forcée]]
-[[Initier des capacités, jouer des cartes]]
-[[Interruption]]
-[[Qualificatifs]]
-[[Réponse]]
-[[Résolution simultanée]]
-[[Ressource (capacité)]]
+**Voir aussi :**  
+[[Action]]  
+[[Annuler]]  
+[[CapaciteUneFoisRevelee]]  
+[[CapaciteUneFoisVaincuDejouee]]  
+[[EffetsRemplacement]]  
+[[EffetsRetardes]]  
+[[EffetsPersistants]]  
+[[EnJeuEtHorsJeu]]  
+[[Ensuite]]  
+[[Et]]  
+[[Forcée]]  
+[[Initier des capacités, jouer des cartes]]  
+[[Interruption]]  
+[[Qualificatifs]]  
+[[Réponse]]  
+[[Résolution simultanée]]  
+[[Ressource (capacité)]]  
 [[Spécial]]

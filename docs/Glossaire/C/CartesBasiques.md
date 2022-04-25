@@ -4,8 +4,8 @@ Les cartes qui appartiennent à la classification «Basique» sont des cartes qu
 - Une carte est appelée basique si le mot **«Basique»** est imprimé en bas, dans le champ de Classification de Construction.
 - Les cartes basiques ne sont pas des cartes d’affinité.
 
-**Voir aussi :**
-[[Classifications]]
-[[CartesAffinite]]
-[[Cartes spécifiques à l’identité]]
+**Voir aussi :**  
+[[Classifications]]  
+[[CartesAffinite]]  
+[[Cartes spécifiques à l’identité]]  
 [[Appendice I : Decks Personnalisés]]

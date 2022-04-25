@@ -6,12 +6,12 @@ Le deck Rencontre contient les cartes Rencontre (attachements, environnements, m
 - Si une capacité de carte défausse un nombre spécifique de cartes du deck Rencontre ou jusqu’à ce qu’une carte ayant un critère spécifique soit défaussée, défaussez des cartes du deck Rencontre jusqu’à ce que la condition de la défausse soit satisfaite ou que le deck Rencontre soit vide. Si le deck Rencontre est vidé de cette façon, on considère que la capacité de carte est résolue. Ne continuez pas de défausser des cartes du deck Rencontre nouvellement reconstitué.
 - S’il n’y a pas de carte ni dans le deck Rencontre ni dans la pile de défausse Rencontre, simultanément, (lorsque toutes les cartes du deck Rencontre sont en jeu, par exemple), une boucle infinie apparaît et place un nombre infini de pions Accélération à côté du deck Manigance Principale, ce qui provoque la fin de la partie avec une défaite des joueurs.
 
-**Voir aussi :**
-[[Attachement]]
-[[Defausser]]
-[[Environnement]]
-[[Manigance annexe]]
-[[Pion accélération]]
-[[Pile de défausse]]
-[[Sbire]]
+**Voir aussi :**  
+[[Attachement]]  
+[[Defausser]]  
+[[Environnement]]  
+[[Manigance annexe]]  
+[[Pion accélération]]  
+[[Pile de défausse]]  
+[[Sbire]]  
 [[Traîtrise]]

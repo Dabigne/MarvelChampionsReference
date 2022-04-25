@@ -1,4 +1,4 @@
 # Deck vide
-**Voir :**
-[[DeckRencontre]]
+**Voir :**  
+[[DeckRencontre]]  
 [[DeckJoueur]]

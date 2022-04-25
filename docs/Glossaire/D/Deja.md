@@ -1,3 +1,3 @@
 # «Déjà»
-**Voir :**
+**Voir :**  
 [[EffetsAlteration]]

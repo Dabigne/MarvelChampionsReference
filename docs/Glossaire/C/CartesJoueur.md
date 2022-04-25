@@ -4,12 +4,12 @@ cartes Allié, cartes Amélioration, cartes Événement, cartes Identité, carte
 - Les cartes Joueur appartiennent à diverses classifications, telles que les cartes Joueur spécifiques à l’identité ou les cartes Joueur d’Affinité.
 - La plupart des cartes Joueur ont un dos bleu.
 
-Voir aussi :
-[[Allie]]
-[[Amelioration]]
-[[Cartes Ressource]]
-[[Classifications]]
-[[Identité]]
-[[Evenement]]
-[[Soutien]]
+Voir aussi :  
+[[Allie]]  
+[[Amelioration]]  
+[[Cartes Ressource]]  
+[[Classifications]]  
+[[Identité]]  
+[[Evenement]]  
+[[Soutien]]  
 [[Appendice I : Deck Personnalisés]]

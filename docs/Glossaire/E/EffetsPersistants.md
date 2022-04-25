@@ -5,6 +5,6 @@ Certaines capacités de carte créent des effets ou des conditions qui affectent
 - Un effet persistant expire dès que le point de timing spécifié dans sa durée est atteint. Cela signifie qu’un effet persistant qui dure « jusqu’à la fin du round » expire juste avant que les capacités ou les effets retardés « à la fin du round » ne puissent s’initier.
 - Un effet persistant qui expire à la fin d’une période de temps spécifiée ne peut être initié que durant cette période de temps.
 
-**Voir aussi :**
-[[Capacite]]
+**Voir aussi :**  
+[[Capacite]]  
 [[EntrerEnJeu]]

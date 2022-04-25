@@ -7,7 +7,7 @@ Une étoile dans le champ de boost indique que la carte possède une capacité d
 - Si des cartes de boost supplémentaires sont résolues pendant une activation, les icônes de boost se cumulent et toutes les capacités de boost de ces cartes sont résolues.
 - Après avoir appliqué une carte de boost à une activation, défaussez-la.
 
-Voir aussi :
-[[AttaqueEnnemis]]
-[[Manigance (activation des ennemis)]]
+Voir aussi :  
+[[AttaqueEnnemis]]  
+[[Manigance (activation des ennemis)]]  
 [[Icône d’étoile]]

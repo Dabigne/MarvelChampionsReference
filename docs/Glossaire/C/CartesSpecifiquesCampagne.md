@@ -4,6 +4,6 @@ Les cartes de la classification «spécifique à une campagne» sont les cartes 
 - Les règles de la campagne déterminent comment les joueurs peuvent utiliser les cartes spécifiques à cette campagne.
 - Une carte spécifique à la campagne est identifiable par le mot «Campagne» imprimé, en bas, dans le champ Information du set de rencontre.
 
-Voir aussi :
-[[Modes de jeu]]
+Voir aussi :  
+[[Modes de jeu]]  
 [[Classifications]]

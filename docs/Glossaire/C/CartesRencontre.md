@@ -5,13 +5,13 @@ cartes Attachement, cartes Environnement, cartes Manigance principale, cartes Ma
 • Les cartes Rencontre appartiennent à diverses classifications, telles que les cartes Rencontre spécifiques à un scénario ou les cartes Rencontre de set modulaire.
 • La plupart des cartes Rencontre ont un dos orange.
 
-**Voir aussi :**
-[[Attachement]]
-[[Classifications]]
-[[Environnement]]
-[[Manigance annexe]]
-[[Manigance Principale]]
-[[Méchant]]
-[[Sbire]]
-[[Traîtrise]]
+**Voir aussi :**  
+[[Attachement]]  
+[[Classifications]]  
+[[Environnement]]  
+[[Manigance annexe]]  
+[[Manigance Principale]]  
+[[Méchant]]  
+[[Sbire]]  
+[[Traîtrise]]  
 [[Appendice I : Decks Personnalisés]]

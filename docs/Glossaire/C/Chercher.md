@@ -4,7 +4,7 @@ Quand il est demandé à un joueur de chercher une carte, ce joueur a le droit d
 - Les cartes consultées ne sont pas considérées comme ayant quitté la zone consultée.
 - Si une quelconque partie d’un deck est consultée, à cause d’une étape de jeu, une fonction de jeu ou une capacité de carte, mélangez l’intégralité du deck.
 
-**Voir aussi :**
-[[DeckRencontre]]
-[[DeckJoueur]]
+**Voir aussi :**  
+[[DeckRencontre]]  
+[[DeckJoueur]]  
 [[Mélanger]]

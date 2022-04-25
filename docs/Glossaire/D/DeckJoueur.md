@@ -4,9 +4,9 @@ Un deck Joueur contient les cartes Joueur (alliés, événements, ressources, so
 - Si le deck d’un joueur est vidé et reformé pendant qu’il piochait des cartes, le joueur continue de piocher des cartes jusqu’à atteindre le nombre requis.
 - Si le deck d’un joueur est vidé et reformé pendant que le joueur défaussait des cartes de son deck, aucune carte n’est défaussée du deck nouvellement formé.
 
-**Voir aussi :**
-[[DeckRencontre]]
-[[Defausser]]
-[[Mélanger]]
-[[Pile de défausse]]
+**Voir aussi :**  
+[[DeckRencontre]]  
+[[Defausser]]  
+[[Mélanger]]  
+[[Pile de défausse]]  
 [[Piocher des cartes]]
