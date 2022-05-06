@@ -1,5 +1,6 @@
 # Attaque, attaquer
-Certains effets de jeu et capacités de cartes parlent d’attaque. Il y a différentes façons d’attaquer :
+Certains effets de jeu et capacités de cartes parlent d’attaque. Il y a différentes façons d’attaquer :  
+
 - Un héros peut utiliser son pouvoir de base d’attaque pour attaquer un ennemi. Un héros doit s’incliner pour utiliser ce pouvoir. Cela inflige à l’ennemi des dégâts égaux à la valeur d’`ATQ` du héros.
 - Un allié peut utiliser son pouvoir de base d’attaque pour attaquer un ennemi. Cela inflige à l’ennemi des dégâts égaux à la valeur d’`ATQ` de cet allié.
 - Si une capacité déclenchée est référencée en tant qu’attaque — comme «Action de héros (attaque)» — résoudre cette capacité est considéré comme une attaque contre la cible spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.

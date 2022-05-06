@@ -5,4 +5,4 @@ Les joueurs sont autorisés à déclencher des capacités d’action lors de leu
 **Voir aussi :**  
 [[Capacite|Capacité]]  
 [[CapaciteDeclenchee|Capacité déclenchée]]  
-[[TourDeJoueur|Tour de joueur]]  
+[[TourJoueur|Tour de joueur]]  
