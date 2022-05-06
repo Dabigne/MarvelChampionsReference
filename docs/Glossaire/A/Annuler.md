@@ -7,4 +7,4 @@ Certaines capacités de carte peuvent annuler des effets de carte ou de jeu.
 - Si les effets d’une carte Traîtrise sont annulés, la carte est quand même considérée comme ayant été révélée et est quand même placée dans la pile de défausse Rencontre.
 
 **Voir aussi :**  
-[[Capacite]]
+[[Capacite|Capacité]]

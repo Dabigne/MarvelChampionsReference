@@ -10,7 +10,7 @@ Il existe deux types d’activation des ennemis : une activation d’attaque et 
 
 **Voir aussi :**  
 [[Boost]]  
-[[AttaqueEnnemis]]  
-[[Manigance (Activation des Ennemis)]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[Sbire]]  
-[[Phase de Méchant]]
+[[PhaseMechant|Phase de Méchant]]

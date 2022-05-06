@@ -9,12 +9,12 @@ Certains effets de jeu et capacités de cartes parlent d’attaque. Il y a diff�
 
 **Voir aussi :**  
 [[Allie]]  
-[[AttaqueEnnemis | Attaques des Ennemis]]  
+[[AttaqueEnnemis|Attaques des Ennemis]]  
 [[Cible]]  
-[[Défendre]]  
-[[Dégâts]]  
+[[Defendre|Défendre]]  
+[[Degats|Dégâts]]  
 [[Ennemi]]  
-[[Identité]]  
-[[Méchant]]  
-[[Pouvoir de base]]  
+[[Identite|Identité]]  
+[[Mechant|Méchant]]  
+[[PouvoirDeBase|Pouvoir de base]]  
 [[Sbire]]

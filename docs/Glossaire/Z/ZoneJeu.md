@@ -6,6 +6,6 @@ Il existe deux types de zone de jeu : la zone de jeu d’un joueur et la zone de
 - Une carte ne peut pas être dans plus d’une zone de jeu à la fois.
 
 **Voir aussi :**  
-[[EnJeuEtHorsJeu]]  
-[[Zone de jeu d’un joueur]]  
-[[Zone de jeu du méchant]]
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
+[[ZoneJeuJoueur|Zone de jeu d’un joueur]]  
+[[ZoneJeuMechant|Zone de jeu du méchant]]

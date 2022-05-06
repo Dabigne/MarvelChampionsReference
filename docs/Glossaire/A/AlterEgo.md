@@ -1,4 +1,4 @@
 # Alter égo
 **Voir** :  
-[[Forme, changer de forme]]  
-[[Identité]]
+[[Forme|Forme, changer de forme]]  
+[[Identite|Identité]]

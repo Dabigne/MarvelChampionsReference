@@ -8,6 +8,6 @@ Allié est un type de carte Joueur qui représente les amis, partisans ou compag
 - Les attaques, contres, défenses, capacité d’action, et capacités déclenchées qui sont résolues par des alliés en jeu sous le contrôle d’un joueur ne sont pas considérés comme effectués par l’identité de ce joueur.
 
 **Voir aussi :**  
-[[Limite d’alliés]]  
-[[Dégâts Consécutifs ]]  
-[[Points de vie]]
+[[LimiteAllies|Limite d’alliés]]  
+[[DegatsConsecutifs|Dégâts Consécutifs ]]  
+[[PointsVie|Points de vie]]
