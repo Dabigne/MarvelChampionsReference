@@ -1,0 +1,2 @@
+# Texte de rappel
+Certaines capacités de carte peuvent inclure un texte de rappel. Il s’agit d’un texte en italique et entre parenthèse (comme celui-ci par exemple). Un texte de rappel n’a pas d’effet sur la partie et sert seulement à résumer une règle ou fonction de jeu spécifique.
