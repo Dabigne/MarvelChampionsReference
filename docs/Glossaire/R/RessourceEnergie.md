@@ -4,9 +4,9 @@ Des ressources Énergie peuvent être dépensées pour payer le coût en ressour
 Certaines capacités de cartes requièrent spécifiquement que des ressources Énergie soient dépensées pour que leurs effets soient résolus. 
 
 **Voir aussi :**  
-[[Capacite]]  
-[[Cout]]  
-[[Icone]]  
+[[Capacite|Capacité]]  
+[[Cout|Coût]]  
+[[Icone|Icône]]  
 [[Ressource]]  
 [[RessourceLibre|Ressource libre]]  
 [[RessourceMentale|Ressource mentale]]  
