@@ -1,3 +1,3 @@
-# SUPPLÉMENTAIRE
+# Supplémentaire
 **Voir :**  
 [[EffetsAlteration]]
