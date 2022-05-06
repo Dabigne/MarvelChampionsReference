@@ -1,5 +1,6 @@
 # Tour de joueur
 Lors de son tour, un joueur peut effectuer les options suivantes, dans n’importe quel ordre. Chaque option (excepté `«changer de forme»`) peut être effectuée autant de fois que le joueur est capable d’en payer les coûts.  
+
 - Changer de forme pour passer de la forme de héros à la forme d’alter ego ou de la forme d’alter ego à la forme de héros. Cette option ne peut être effectuée qu’une seule fois par tour.
 - Jouer une carte Amélioration, Allié ou Soutien depuis sa main. 
 - Utiliser son pouvoir de base d’alter ego de récupération (sous forme d’alter ego) ou son pouvoir de base de héros d’attaque ou de contre (sous forme de héros). 
