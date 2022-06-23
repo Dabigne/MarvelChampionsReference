@@ -5,4 +5,4 @@ Quand une carte avec le mot-clé `Entrave X` est révélée, placez X menaces de
 [[Menace]]  
 [[Mot-clé]]  
 [[Texte de rappel]]  
-[[Révéler]]
+[[Reveler|Révéler]]

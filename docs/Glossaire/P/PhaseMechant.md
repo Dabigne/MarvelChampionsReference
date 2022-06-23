@@ -20,5 +20,5 @@ Les étapes de la phase du Méchant sont les suivantes :
 [[Mechant]]  
 [[Menace]]  
 [[Premier joueur]]  
-[[Révéler]]  
+[[Reveler|Révéler]]  
 [[Sbire]]

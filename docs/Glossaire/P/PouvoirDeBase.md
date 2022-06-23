@@ -14,6 +14,6 @@ Un pouvoir de base est une statistique qui permet à un personnage d’exécuter
 [[ContreContrer|Contre, contrer]]  
 [[Defendre]]  
 [[Identite]]  
-[[Manigance (Activation des Ennemis)]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[Recuperer|Récupérer]]  
 [[Sbire]]

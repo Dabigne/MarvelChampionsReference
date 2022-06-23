@@ -6,4 +6,4 @@ La locution `«entrer en jeu»` désigne tout moment où une carte passe d’une
 [[Jouer]]  
 [[Mettre en Jeu]]  
 [[Quitter le jeu]]  
-[[Révéler]]
+[[Reveler|Révéler]]

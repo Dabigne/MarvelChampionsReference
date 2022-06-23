@@ -130,7 +130,7 @@
 ## M
 [[Manigance (type de carte)]]  
 [[Manigance annexe]]  
-[[Manigance principale, deck manigance principale]]  
+[[ManigancePrincipale|Manigance principale, deck manigance principale]]  
 [[Manigance (activation des ennemis)]]  
 [[Max]]  
 [[Méchant, deck méchant]]  
@@ -195,7 +195,7 @@
 [[Restreint]]  
 [[Restrictions et permissions de jeu]]  
 [[Retiré de la partie]]  
-[[Révéler]]  
+[[Reveler|Révéler]]  
 [[Riposte X]]  
 [[Robuste]]  
 

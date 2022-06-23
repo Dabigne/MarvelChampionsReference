@@ -10,4 +10,4 @@ Traîtrise est un type de cartes Rencontre qui représente les tactiques, ruses,
 [[Defausser]]  
 [[Mechant]]  
 [[TypesCarte]]  
-[[Révéler]]
+[[Reveler|Révéler]]

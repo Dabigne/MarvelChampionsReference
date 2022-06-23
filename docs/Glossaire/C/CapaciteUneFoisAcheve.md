@@ -3,4 +3,4 @@ Une capacité `«Une fois achevé»`, est un type de capacité déclenchée intr
 Lorsque le stade d’une manigance principale est achevé, toutes les capacités `«Une fois achevé»` de la carte se résolvent.
 
 **Voir aussi :**  
-[[Manigance principale, deck manigance principale]]
+[[ManigancePrincipale|Manigance principale, deck manigance principale]]

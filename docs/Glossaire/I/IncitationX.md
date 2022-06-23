@@ -5,5 +5,5 @@ Quand une carte ayant le mot-clé `Incitation X` est révélée, placez X menace
 [[Manigance Principale]]  
 [[Menace]]  
 [[MotsCles]]  
-[[Révéler]]  
+[[Reveler|Révéler]]  
 [[Texte de rappel]]
