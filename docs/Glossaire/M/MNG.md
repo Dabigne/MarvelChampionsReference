@@ -1,4 +1,4 @@
 # MNG
 **Voir :**  
-[[ManiganceActivationEnnemis]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[Pouvoir de base]]

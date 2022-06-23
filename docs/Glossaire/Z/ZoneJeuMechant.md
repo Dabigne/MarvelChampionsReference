@@ -11,7 +11,7 @@ La zone de jeu du méchant contient le deck Méchant, le deck Manigance Principa
 [[ManigancePrincipale]]  
 [[Mechant]]  
 [[DeckRencontre]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Environnement]]  
 [[Obligation]]  
 [[PileDefausse]]  

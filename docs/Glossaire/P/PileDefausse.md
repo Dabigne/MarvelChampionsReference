@@ -8,7 +8,7 @@ Une pile de défausse est une zone hors-jeu qui contient des cartes qui ont ét�
 
 **Voir aussi :**  
 [[Defausser]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
 [[Melanger]]  
 [[Propriété et contrôle]]

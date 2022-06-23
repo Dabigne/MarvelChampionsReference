@@ -4,7 +4,7 @@ On appelle cartes d’affinité, les cartes qui appartiennent aux affinités Agr
 - L’affinité d’une carte est identifiable par le nom de l’affinité imprimé en bas de la carte dans le champ de Classification de Construction.
 
 **Voir aussi :**  
-[[CartesBasiques]]  
-[[Cartes spécifiques à l’identité]]  
+[[CartesBasiques|Cartes basiques]]  
+[[CarteSpecifiqueIdentite|Cartes spécifiques à l’identité]]  
 [[Classifications]]  
 [[Appendice I : Decks Personnalisés]]

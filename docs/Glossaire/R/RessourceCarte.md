@@ -4,7 +4,7 @@ Une carte Ressource est un type de carte Joueur. La principale fonction d’une 
 - On considère que les cartes Ressource sont une extension d’une identité. Si un joueur dépense une ressource, on considère qu’elle est également dépensée par l’identité. 
 
 **Voir aussi :**  
-[[CartesJoueur]]  
+[[CartesJoueur|Cartes joueur]]  
 [[EntrerEnJeu]]  
 [[Icone]]  
 [[Identite]]  

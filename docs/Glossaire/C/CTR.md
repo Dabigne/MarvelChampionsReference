@@ -1,4 +1,4 @@
 # CTR
 **Voir :**  
-[[ContreContrer]]  
+[[ContreContrer|Contre, contrer]]  
 [[Pouvoir de base]]

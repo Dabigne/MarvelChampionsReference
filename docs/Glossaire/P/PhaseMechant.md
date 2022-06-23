@@ -9,13 +9,13 @@ Les étapes de la phase du Méchant sont les suivantes :
 
 **Voir aussi :**  
 [[Activation]]  
-[[AttribuerUneCarteRencontre]]  
+[[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
 [[DansOrdreDesJoueurs]]  
 [[Engager]]  
 [[IconeAcceleration]]  
 [[IconeAleas]]  
 [[Joueur]]  
-[[ManiganceActivationEnnemis]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[ManigancePrincipale]]  
 [[Mechant]]  
 [[Menace]]  

@@ -16,7 +16,7 @@ De plus, certains sbires uniques peuvent avoir le même titre que d’autres per
 - Si une capacité de carte tente de mettre en jeu un sbire unique alors qu’un autre personnage unique avec le même titre est déjà en jeu, ce sbire ne peut pas entrer en jeu et l’effet de `«mise en jeu»` échoue à se résoudre. Résolvez le reste de la capacité de la carte normalement.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[EntrerEnJeu]]  
 [[Identite]]  
 [[Joueur]]  

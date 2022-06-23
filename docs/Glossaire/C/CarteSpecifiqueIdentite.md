@@ -7,7 +7,7 @@ Les cartes de la classification «spécifiques à l’identité» (parfois appel
 
 **Voir aussi :**  
 [[Carte aspect]]  
-[[CartesBasiques]]  
+[[CartesBasiques|Cartes basiques]]  
 [[Classifications]]  
 [[Identité]]  
 [[Set de rencontre némésis]]  

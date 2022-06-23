@@ -11,6 +11,6 @@ Un effet d’altération modifie la résolution d’une capacité qui le précè
 >Par exemple, sur **«Vous Osez me Défier»**, il est écrit : «Une fois révélée : défaussez les 5 cartes du dessus du deck Rencontre. Chaque fois qu’une carte du set de rencontre Fanatique Kree est défaussée par cet effet, attribuez-vous cette carte en tant que carte Rencontre face cachée.»
 
 **Voir aussi :**  
-[[Capacite]]  
-[[CapaciteDeclenchee]]  
+[[Capacite|Capacité]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[Effet de Remplacement]]

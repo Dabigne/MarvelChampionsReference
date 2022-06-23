@@ -6,7 +6,7 @@ Soutien est un type de carte Joueur qui représente les lieux, les amis et les s
 - Les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent depuis des soutiens en jeu sous le contrôle d’un joueur ne sont pas considérés comme effectués par l’identité de ce joueur.
 
 **Voir aussi :**  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[EntrerEnJeu]]  
 [[Types de carte]]  
 [[Quitter le Jeu]]

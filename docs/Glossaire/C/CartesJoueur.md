@@ -5,8 +5,8 @@ cartes Allié, cartes Amélioration, cartes Événement, cartes Identité, carte
 - La plupart des cartes Joueur ont un dos bleu.
 
 Voir aussi :  
-[[Allie]]  
-[[Amelioration]]  
+[[Allie|Allié]]  
+[[Amelioration|Amélioration]]  
 [[Cartes Ressource]]  
 [[Classifications]]  
 [[Identité]]  

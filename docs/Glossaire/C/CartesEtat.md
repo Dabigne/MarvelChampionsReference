@@ -22,8 +22,8 @@ Une carte d’état Tenace empêche un personnage de subir des dégâts.
 - Puisqu’une carte d’état Tenace prévient l’intégralité des dégâts, on considère que le personnage qui avait la carte d’état Tenace n’a pas subi de dégâts.
 
 **Voir aussi :**  
-[[Allie]]  
-[[AttaqueEnnemis]]  
+[[Allie|Allié]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[Attaque]]  
 [[Degats]]  
 [[Désorienté]]  

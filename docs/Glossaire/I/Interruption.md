@@ -8,5 +8,5 @@ Une capacité d’interruption est un type de capacité déclenchée signalé pa
 
 **Voir aussi :**  
 [[Annuler]]  
-[[CapaciteDeclenchee]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[EffetsRemplacement]]

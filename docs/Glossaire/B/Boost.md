@@ -9,6 +9,6 @@ Une étoile dans le champ de boost indique que la carte possède une capacité d
 - Après avoir appliqué une carte de boost à une activation, défaussez-la.
 
 Voir aussi :  
-[[AttaqueEnnemis]]  
-[[Manigance (activation des ennemis)]]  
-[[Icône d’étoile]]
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
+[[ManiganceActivationEnnemis|Manigance (activation des ennemis)]]  
+[[IconeEtoile|Icône d’étoile]]

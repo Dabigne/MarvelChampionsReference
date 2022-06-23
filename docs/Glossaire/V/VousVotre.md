@@ -26,10 +26,10 @@ Les cartes qui ne sont pas considérées comme une extension de l’identité d�
 - **Soutiens** — Considérez que les attaques, contres, défenses, capacités d’action et capacités déclenchées qui se résolvent via des soutiens en jeu contrôlés par un joueur ne sont pas effectués par l’identité de ce joueur. 
 
 **Voir aussi :**  
-[[Allie]]  
-[[Amelioration]]  
-[[Capacite]]  
-[[CartesJoueur]]  
+[[Allie|Allié]]  
+[[Amelioration|Amélioration]]  
+[[Capacite|Capacité]]  
+[[CartesJoueur|Cartes joueur]]  
 [[DeckJoueur]]  
 [[Evenement]]  
 [[Identite]]  

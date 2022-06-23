@@ -3,7 +3,7 @@ Les pions Menace sont utilisés pour comptabiliser la quantité de menaces sur l
 
 **Voir aussi :**  
 [[ContreContrer]]  
-[[ManiganceActivationEnnemis]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[ManiganceAnnexe]]  
 [[ManigancePrincipale]]  
 [[Prevenir]]

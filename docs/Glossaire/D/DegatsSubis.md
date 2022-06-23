@@ -4,7 +4,7 @@ Les dégâts subis correspondent à la différence entre les points de vie maxim
 - Les dégâts subis par un allié ou un sbire sont égaux à la valeur totale des pions Dégât sur sa carte.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[Degats]]  
 [[Identité]]  
 [[Méchant]]  

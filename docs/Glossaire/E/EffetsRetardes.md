@@ -4,5 +4,5 @@ Certaines capacités contiennent des effets retardés. De telles capacités stip
 - Quand un effet retardé se résout, il n’est pas considéré comme une nouvelle capacité déclenchée, même si l’effet retardé avait été originellement créé par une capacité déclenchée.
 
 **Voir aussi :**  
-[[Capacite]]  
-[[CapaciteDeclenchee]]
+[[Capacite|Capacité]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]

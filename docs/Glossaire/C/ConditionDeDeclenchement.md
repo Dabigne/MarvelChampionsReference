@@ -5,4 +5,4 @@ Une condition de déclenchement est une occurrence spécifique qui survient dura
 
 **Voir aussi :**  
 [[Interruption]]  
-[[Réponse]]
+[[Reponse|Réponse]]

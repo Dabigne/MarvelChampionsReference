@@ -4,7 +4,7 @@ Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.
 - Quand des menaces sont prévenues, diminuez la quantité de menaces assignées avant qu’elles ne soient placées sur la manigance. 
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Cible]]  
 [[Degats]]  
 [[ManiganceTypeCarte]]  

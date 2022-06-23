@@ -11,4 +11,4 @@ Les pions Accélération ne peuvent pas être retirés de la partie. Contraireme
 [[DeckRencontre]]  
 [[Limitation du matériel]]  
 [[ManigancePrincipale]]  
-[[PhaseMechant]]
+[[PhaseMechant|Phase de Méchant]]

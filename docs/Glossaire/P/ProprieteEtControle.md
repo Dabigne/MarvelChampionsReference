@@ -10,11 +10,11 @@ Le propriétaire d’une carte est le joueur dont le deck contenait la carte au 
 - Si une étape de jeu ou une capacité de carte fait référence à une carte `«que vous contrôlez»` ou `«qu’un joueur contrôle»`, l’étape de jeu ou la capacité de carte se réfère seulement aux cartes en jeu qui sont actuellement sous le contrôle de ce joueur. 
 
 **Voir aussi :**  
-[[CartesJoueur]]  
+[[CartesJoueur|Cartes joueur]]  
 [[CartesRencontre]]  
 [[DeckJoueur]]  
 [[DeckRencontre]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
 [[Zone de jeu d’un joueur]]  
 [[Zone de jeu du méchant]]

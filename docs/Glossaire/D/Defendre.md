@@ -8,10 +8,10 @@ Quand un ennemi attaque, un joueur a la possibilité de défendre contre cette a
 - Si aucun personnage n’est utilisé pour défendre contre une attaque ennemie, l’attaque est considérée comme non défendue. De plus, si un allié qui défend est vaincu avant que les dégâts de cette attaque ne soient infligés (à cause d’une capacité de boost, par exemple), cette attaque est considérée comme non défendue.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[Ami]]  
-[[AttaqueEnnemis]]  
-[[Capacite]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
+[[Capacite|Capacité]]  
 [[Degats]]  
 [[Identité]]  
 [[Joueur]]

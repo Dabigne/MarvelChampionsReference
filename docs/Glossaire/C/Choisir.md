@@ -7,6 +7,6 @@ Le verbe «choisir» indique qu’un joueur doit sélectionner un élément de j
 - Une carte n’est pas une cible éligible pour une capacité si la résolution de l’effet de la capacité ne change pas l’état de la carte.
 
 Voir aussi :  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Cible]]  
 [[Joueur]]

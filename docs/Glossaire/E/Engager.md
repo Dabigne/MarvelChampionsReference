@@ -5,7 +5,7 @@ Après qu’un sbire est entré en jeu dans la zone de jeu d’un joueur, il eng
 - Tant qu’un sbire est engagé avec un joueur, les capacités de carte qui l’obligeraient à engager de nouveau ce même joueur sont ignorées. (Puisque chacun d’eux est déjà engagé avec l’autre.)
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Joueur]]  
 [[Sbire]]  
 [[Vaincre, déjouer]]  

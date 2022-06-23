@@ -8,6 +8,6 @@
 
 **Voir aussi :**  
 [[Forme]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
-[[CartesJoueur]]
+[[CartesJoueur|Cartes joueur]]

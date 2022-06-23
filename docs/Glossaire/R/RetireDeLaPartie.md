@@ -3,5 +3,5 @@ Une carte qui a été retirée de la partie est mise de côté et n’interagit 
 >« Retiré de la partie » est un état hors jeu. 
 
 **Voir aussi :**  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Quitter le Jeu]]

@@ -6,6 +6,6 @@ Le méchant est représenté par un deck séquentiel d’au moins une carte. Les
  
 **Voir aussi :**  
 [[Activation]]  
-[[AttaqueEnnemis]]  
-[[ManiganceActivationEnnemis]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[Vaincre le méchant]]

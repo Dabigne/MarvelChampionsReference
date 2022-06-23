@@ -7,6 +7,6 @@ Jouer une carte correspond à payer le coût de cette carte et à la placer dans
 - À moins que le contraire ne soit précisé par l’effet de mise en jeu, les cartes mises en jeu doivent l’être dans une zone de jeu et dans un état qui respecte les règles relatives au fait de jouer cette carte. 
 
 **Voir aussi :**  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[EntrerEnJeu]]  
 [[Restrictions et permissions de jeu]]

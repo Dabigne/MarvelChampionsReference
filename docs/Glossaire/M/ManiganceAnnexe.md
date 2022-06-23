@@ -6,7 +6,7 @@ Si une manigance annexe est révélée, elle entre en jeu et est placée à côt
 
 **Voir aussi :**
 [[CartesRencontre]]
-[[ContreContrer]]
+[[ContreContrer|Contre, contrer]]
 [[ManigancePrincipale]]
 [[EntrerEnJeu]]
 [[Menace]]

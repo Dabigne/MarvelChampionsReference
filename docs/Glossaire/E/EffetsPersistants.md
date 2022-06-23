@@ -6,5 +6,5 @@ Certaines capacités de carte créent des effets ou des conditions qui affectent
 - Un effet persistant qui expire à la fin d’une période de temps spécifiée ne peut être initié que durant cette période de temps.
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[EntrerEnJeu]]

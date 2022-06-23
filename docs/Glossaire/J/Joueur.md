@@ -9,7 +9,7 @@ Un joueur est une personne qui joue une partie de Marvel Champions.
 **Voir aussi :**  
 [[DeckJoueur]]  
 [[Defausser]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Identite]]  
 [[PileDefausse]]  
 [[Premier joueur]]  

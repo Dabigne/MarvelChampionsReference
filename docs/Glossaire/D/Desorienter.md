@@ -4,8 +4,8 @@ Désorienté est un statut qui empêche un personnage d’ajouter ou de retirer 
 - Si un personnage a une capacité précisant « ne peut pas être désorienté », aucune carte d’état Désorienté ne peut être placée sur ce personnage.
 
 **Voir aussi :**  
-[[Allie]]  
-[[CartesEtat]]  
+[[Allie|Allié]]  
+[[CartesEtat|Cartes d’état]]  
 [[Identité]]  
 [[Méchant]]  
 [[Sbire]]

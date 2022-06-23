@@ -17,4 +17,4 @@
 [[Mechant|Méchant]]  
 [[Menace]]  
 [[Menace Cible]]  
-[[PhaseMechant]]
+[[PhaseMechant|Phase de Méchant]]

@@ -8,10 +8,10 @@ Un pouvoir de base est une statistique qui permet à un personnage d’exécuter
 - Le pouvoir de manigance (`MNG`) peut être utilisé par un personnage pour effectuer une manigance de base et placer de la menace sur la manigance principale. En général, les méchants et les sbires ont un pouvoir de manigance. 
 
 **Voir aussi :**  
-[[Allie]]  
-[[AttaqueEnnemis]]  
+[[Allie|Allié]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[Attaque]]  
-[[ContreContrer]]  
+[[ContreContrer|Contre, contrer]]  
 [[Defendre]]  
 [[Identite]]  
 [[Manigance (Activation des Ennemis)]]  

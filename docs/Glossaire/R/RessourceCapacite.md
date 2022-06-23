@@ -6,4 +6,4 @@ Une capacité de ressource est un type de capacité déclenchée signalé par l�
 **Voir aussi :**  
 [[Cout]]  
 [[Ressource]]  
-[[CapaciteDeclenchee]]
+[[CapaciteDeclenchee|Capacité déclenchée]]

@@ -22,7 +22,7 @@ Cette section vous donne un aperçu du déroulement d’un round de jeu et les e
 4. La phase du Méchant commence. Voir : [[Phase du Méchant]]  
 5. Placez de la menace sur la manigance principale. Voir : [[Manigance principale, deck manigance principale]]  
 6. Le méchant et les sbires s’activent. Voir : [[Activation]] , [[AttaqueEnnemis]], [[Manigance (Activation des Ennemis)]]  
-7. Attribuez les cartes Rencontre. Voir : [[AttribuerUneCarteRencontre]]  
+7. Attribuez les cartes Rencontre. Voir : [[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
 8. Révélez et résolvez les cartes Rencontre. Voir : [[Révéler ]]  
 9. Passez le pion Premier Joueur. Voir : [[Premier Joueur]]  
 10. Fin du round. Passez à la première étape du prochain round de jeu.

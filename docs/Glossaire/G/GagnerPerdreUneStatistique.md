@@ -4,7 +4,7 @@ Si une capacité de carte fait «gagner» ou «perdre» une statistique (comme `
 - Si une telle capacité fait gagner ou perdre des points de vie à un personnage, elle modifie les points de vie restants du personnage tant qu’elle est active et modifie également les points de vie maximums du personnage tant qu’elle est active.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[Identite]]  
 [[Méchant]]  
 [[Sbire]]  

@@ -4,9 +4,9 @@ Si des dégâts en excès sont infligés à un allié lors d’une attaque doté
 - Si une capacité de carte comptabilise les dégâts infligés en excès, elle calcule cette valeur de dégâts en excès de la même manière que s’il s’agissait de la résolution du mot-clé `Déferlement`.
 
 **Voir aussi :**
-[[Allie]]
+[[Allie|Allié]]
 [[Attaque]]
-[[AttaqueEnnemis]]
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]
 [[Degats]]
 [[Identité]]
 [[Méchant]]

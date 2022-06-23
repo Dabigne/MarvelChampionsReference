@@ -9,7 +9,7 @@ Certains effets de jeu et capacités de cartes parlent d’attaque. Il y a diff�
 - Des capacités de cartes peuvent faire attaquer le méchant et/ou les sbires à d’autres moments si la capacité en question demande explicitement au méchant ou au sbire «d’attaquer».
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[AttaqueEnnemis|Attaques des Ennemis]]  
 [[Cible]]  
 [[Defendre|Défendre]]  

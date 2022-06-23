@@ -5,7 +5,7 @@ Chaque identité est fournie avec son set de rencontre Némésis associé. Au d�
 - Les cartes d’un set de Némésis ne peuvent être utilisées avec une identité que si ces cartes partagent une icône de set avec cette identité.
 
 **Voir aussi :**  
-[[Cartes spécifiques à l’identité]]  
-[[EnJeuEtHorsJeu]]  
+[[CarteSpecifiqueIdentite|Cartes spécifiques à l’identité]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Identite]]  
 [[Joueur]]

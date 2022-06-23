@@ -5,5 +5,5 @@ Une capacité de réponse est un type de capacité déclenchée signalé par l�
 - Une fois que tous les joueurs ont consécutivement passé leur opportunité de répondre à une condition de déclenchement, aucune réponse pour cette condition de déclenchement spécifique ne peut être utilisée.
 
 **Voir aussi :**  
-[[Capacite]]  
-[[CapaciteDeclenchee]]
+[[Capacite|Capacité]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]

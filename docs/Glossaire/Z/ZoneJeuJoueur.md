@@ -9,11 +9,11 @@ La zone de jeu d’un joueur contient l’identité de ce joueur, son deck, sa m
 - Si un joueur est éliminé de la partie (parce que son identité est vaincue, ou autre), sa zone de jeu est retirée de la partie. 
 
 **Voir aussi :**  
-[[Allie]]  
-[[Amelioration]]  
+[[Allie|Allié]]  
+[[Amelioration|Amélioration]]  
 [[DeckJoueur]]  
 [[EliminationJoueur]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Identite]]  
 [[Obligation]]  
 [[PileDefausse]]  

@@ -4,8 +4,8 @@ Quand un stade de méchant, un allié ou un sbire est vaincu, toutes les capacit
 Quand un stade de manigance principale ou une manigance annexe est déjouée, toutes les capacités `Une fois déjouée` sur la carte se résolvent.
 
 **Voir aussi :**  
-[[Allie]]  
-[[CapaciteDeclenchee]]  
+[[Allie|Allié]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[Manigance annexe]]  
 [[Manigance Principale]]  
 [[Méchant]]  

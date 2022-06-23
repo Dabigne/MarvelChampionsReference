@@ -14,7 +14,7 @@ Sbire est un type de carte Rencontre. Les sbires représentent les soutiens du m
 [[Identite]]  
 [[Joueur]]  
 [[Mechant]]  
-[[PhaseMechant]]  
+[[PhaseMechant|Phase de Méchant]]  
 [[PointsVie]]  
 [[Quitter le Jeu]]  
 [[Zone de jeu d’un joueur]]

@@ -17,6 +17,6 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 - Si la capacité initiée se trouve sur une carte en jeu, la séquence ne s’interrompt pas si la carte quitte le jeu pendant la séquence, à moins que le fait que la carte quitte le jeu n’empêche un coût requis d’être payé.
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Cout]]  
 [[Restrictions et permissions de jeu]]

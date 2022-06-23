@@ -6,9 +6,9 @@ Le fait de déplacer vers une pile de défausse une carte qui provient d’une z
 - Si plusieurs cartes sont défaussées simultanément d’un deck, placez ces cartes dans la pile de défausse appropriée, une à la fois (sans modifier l’ordre).
 
 **Voir aussi :**  
-[[CartesJoueur]]  
+[[CartesJoueur|Cartes joueur]]  
 [[CartesRencontre]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Pile de défausse]]  
 [[Propriété et contrôle]]  
 [[Mélanger]]

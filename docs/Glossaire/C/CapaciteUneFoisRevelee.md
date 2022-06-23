@@ -5,7 +5,7 @@ Quand un joueur révèle une carte du deck Rencontre, un nouveau stade de maniga
 - Si une carte Rencontre avec une capacité `«Une fois révélée»` est mise en jeu sans être révélée, la capacité `«Une fois révélée»` ne se déclenche pas.
 
 **Voir aussi :**  
-[[CapaciteDeclenchee]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[CartesRencontre]]  
 [[Manigance Principale]]  
 [[Méchant]]  

@@ -1,7 +1,7 @@
 # Mots-clés
 Un mot-clé est un attribut qui confère des règles spécifiques à la carte qui le porte. Les mots-clés suivants sont utilisés dans le jeu :
 
-- [[ADistance|A distance]] : Les attaques ayant À Distance ignorent le mot-clé Riposte. 
+- [[ADistance|À Distance]] : Les attaques ayant À Distance ignorent le mot-clé Riposte. 
 - [[CoupRapide|Coup rapide]] : Après que cet ennemi a engagé un joueur, il attaque immédiatement ce joueur s’il est sous forme de héros. 
 - [[Deferlement|Déferlement]] : Les dégâts en excès des attaques avec déferlement sont infligés à l’identité ou au méchant.
 - [[EnEquipe|En équipe]] : Une carte ayant En Équipe ne peut être jouée que si les deux personnages nommés à côté du mot-clé sont en jeu.

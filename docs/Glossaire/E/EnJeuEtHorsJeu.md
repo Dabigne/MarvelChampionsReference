@@ -16,7 +16,7 @@ Si une carte est hors jeu, son texte est inactif et ne peut pas affecter la part
 - Si une carte est recto verso (car son texte de jeu est imprimé sur ses deux faces), la face cachée de cette carte est hors jeu.
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Cible]]  
 [[EntrerEnJeu]]  
 [[Jouer]]  

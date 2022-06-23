@@ -5,7 +5,7 @@ Certains effets de jeu et capacités de carte font référence à des tentatives
 - Si une capacité déclenchée est référencée en tant que contre — comme «Action de héros (contre)» — résoudre cette capacité est considéré comme contrer la manigance spécifiée. À moins que cela ne soit spécifiquement indiqué, un héros ne s’incline pas lorsqu’il utilise une telle capacité.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[Dégâts consécutifs]]  
 [[Incliné]]  
 [[Manigance annexe]]  

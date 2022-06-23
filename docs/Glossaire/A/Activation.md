@@ -9,7 +9,7 @@ Il existe deux types d’activation des ennemis : une activation d’attaque et 
 - Si un sbire activé quitte le jeu, l’activation de se sbire se termine immédiatement et aucune autre étape de cette activation ne se résout.
 
 **Voir aussi :**  
-[[Boost]]  
+[[Boost|Boost, icône de boost]]  
 [[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[Sbire]]  

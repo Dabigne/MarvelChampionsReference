@@ -5,7 +5,7 @@ Si un personnage tombe à zéro point de vie ou moins, il est vaincu. Si une man
 - Si une identité ou un stade du méchant est vaincu, la carte est retirée de la partie.
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[PointsVie]]  
 [[EliminationJoueur]]  
 [[Joueur]]  

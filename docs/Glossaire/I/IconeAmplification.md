@@ -3,6 +3,6 @@
 
 **Voir aussi :**  
 [[Activation]]  
-[[Boost]]  
+[[Boost|Boost, icône de boost]]  
 [[Ennemi]]  
 [[Icônes]]

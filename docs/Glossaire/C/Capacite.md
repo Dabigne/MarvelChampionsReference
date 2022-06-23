@@ -13,7 +13,7 @@ Une capacité est un texte de jeu sur une carte qui indique spécifiquement ce q
 - La résolution des types de capacités suivants est optionnelle : «Action», «Interruption», «Réponse», «Ressource». Le joueur qui contrôle la carte qui possède la capacité optionnelle choisit ou non d’utiliser cette capacité au moment approprié.
 
 ![[CapaciteConstante]]  
-![[CapaciteDeclenchee]]
+![[CapaciteDeclenchee|Capacité déclenchée]]
 
 Certaines capacités ont des priorités de timing par rapport à d’autres capacités.
 L’ordre de priorités des capacités est le suivant :
@@ -24,21 +24,21 @@ L’ordre de priorités des capacités est le suivant :
 5. Capacités «Réponse »
 
 **Voir aussi :**  
-[[Action]]  
-[[Annuler]]  
-[[CapaciteUneFoisRevelee]]  
-[[CapaciteUneFoisVaincuDejouee]]  
-[[EffetsRemplacement]]  
-[[EffetsRetardes]]  
-[[EffetsPersistants]]  
-[[EnJeuEtHorsJeu]]  
+[[Action|Action]]  
+[[Annuler|Annuler]]  
+[[CapaciteUneFoisRevelee|Capacité une fois révélée]]  
+[[CapaciteUneFoisVaincuDejouee|Capacité une fois vaincu, déjouée]]  
+[[EffetsRemplacement|Effets de remplacement]]  
+[[EffetsRetardes|Effets retardés]]  
+[[EffetsPersistants|Effets persistants]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Ensuite]]  
 [[Et]]  
-[[Forcée]]  
+[[Forcee|Forcée]]  
 [[Initier des capacités, jouer des cartes]]  
 [[Interruption]]  
 [[Qualificatifs]]  
-[[Réponse]]  
-[[Résolution simultanée]]  
+[[Reponse|Réponse]]  
+[[Resolution|Résolution simultanée]]  
 [[Ressource (capacité)]]  
 [[Spécial]]

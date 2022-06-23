@@ -6,4 +6,4 @@
 - Chaque capacité forcée doit se résoudre aussi complètement que possible avant que la prochaine capacité forcée déclenchée par la même condition de déclenchement puisse s’initier. 
 
 **Voir aussi :**  
-[[CapaciteDeclenchee]]
+[[CapaciteDeclenchee|Capacité déclenchée]]

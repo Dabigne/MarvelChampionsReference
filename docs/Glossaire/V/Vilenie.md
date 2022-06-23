@@ -3,10 +3,10 @@ Quand un sbire avec le mot-clé Vilenie s’active, donnez-lui une carte de boos
 
 **Voir aussi :**  
 [[Activation]]  
-[[AttaqueEnnemis]]  
-[[Boost]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
+[[Boost|Boost, icône de boost]]  
 [[Defausser]]  
-[[ManiganceActivationEnnemis]]  
+[[ManiganceActivationEnnemis|Manigance (Activation des Ennemis)]]  
 [[MotsCles]]  
 [[Sbire]]  
 [[TexteRappel]]

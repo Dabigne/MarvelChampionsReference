@@ -11,13 +11,13 @@ Si le texte d’une carte demande à un joueur de révéler une carte Rencontre 
 
 **Voir aussi :**  
 [[Attachement]]  
-[[AttribuerUneCarteRencontre]]  
+[[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
 [[DansOrdreDesJoueurs]]  
 [[EntrerEnJeu]]  
 [[Environnement]]  
 [[Joueur]]  
 [[ManiganceAnnexe]]  
 [[Obligation]]  
-[[PhaseMechant]]  
+[[PhaseMechant|Phase de Méchant]]  
 [[Sbire]]  
 [[Traîtrise]]

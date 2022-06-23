@@ -17,7 +17,7 @@ Une attaque est un type d’activation des ennemis. Lorsqu’un ennemi attaque, 
 **Voir aussi :**  
 [[Activation]]  
 [[Allie|Allié]]  
-[[Boost]]  
+[[Boost|Boost, icône de boost]]  
 [[Cible]]  
 [[Defendre|Défense, défendre]]  
 [[Degats|Dégâts]]  

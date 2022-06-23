@@ -7,4 +7,4 @@
 [[Icônes]]  
 [[Manigance Principale]]  
 [[Menace]]  
-[[PhaseMechant]]
+[[PhaseMechant|Phase de Méchant]]

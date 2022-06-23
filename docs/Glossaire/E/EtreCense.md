@@ -6,6 +6,6 @@ La proposition `«est censé»` est utilisée pour définir la condition de déc
 >Par exemple, l’interruption «quand un personnage est censé être vaincu» se déclenche avant une interruption telle que «quand un personnage est vaincu».
 
 **Voir aussi :**  
-[[CapaciteDeclenchee]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[Effet de Remplacement]]  
 [[Interruption]]

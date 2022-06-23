@@ -9,9 +9,9 @@ Lors de son tour, un joueur peut effectuer les options suivantes, dans n’impor
 - Demander à un autre joueur de déclencher une capacité `«Action»` d’une carte en jeu qu’il contrôle ou sur une carte Événement qu’il a en main. L’autre joueur décide ensuite de déclencher ou non la capacité. (Un autre joueur peut également proposer d’utiliser une action lors du tour du joueur actif.) 
 
 **Voir aussi :**  
-[[Allie]]  
-[[Amelioration]]  
-[[CapaciteDeclenchee]]  
+[[Allie|Allié]]  
+[[Amelioration|Amélioration]]  
+[[CapaciteDeclenchee|Capacité déclenchée]]  
 [[CartesRencontre]]  
 [[Evenement]]  
 [[Forme]]  

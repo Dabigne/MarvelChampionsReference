@@ -6,8 +6,8 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 - Si l’attaque d’un ennemi inflige des dégâts indirects, ces dégâts sont infligés pendant l’étape 4 de l’activation de l’ennemi (après que les joueurs ont eu l’opportunité de défendre contre cette attaque). Par exemple, si vous subissez 5 dégâts indirects, mais que vous contrôlez un allié à qui il reste 4 points de vie, vous pouvez assigner 4 de ces dégâts indirects à votre allié et assigner le dégât restant à votre identité.
 
 **Voir aussi :**  
-[[Allie]]  
-[[AttaqueEnnemis]]  
+[[Allie|Allié]]  
+[[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[Degats]]  
 [[Joueur]]  
 [[Vaincre, déjouer]]

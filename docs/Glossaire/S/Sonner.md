@@ -5,8 +5,8 @@ Sonné est un état qui empêche un personnage d’infliger des dégâts avec sa
 - Si un personnage a une capacité spécifiant qu’il `«ne peut pas être sonné»`, aucune carte d’état Sonné ne peut être placée sur ce personnage. 
 
 **Voir aussi :**  
-[[Allie]]  
-[[CartesEtat]]  
+[[Allie|Allié]]  
+[[CartesEtat|Cartes d’état]]  
 [[Identite]]  
 [[Mechant]]  
 [[Sbire]]

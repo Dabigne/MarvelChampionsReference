@@ -6,7 +6,7 @@ La taille de main de chaque joueur est vérifiée à la fin de la phase des Joue
 
 **Voir aussi :**  
 [[Defausser]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
 [[Propriété et contrôle]]  
 [[DeckJoueur]]  

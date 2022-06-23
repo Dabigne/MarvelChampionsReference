@@ -1,4 +1,4 @@
 # Effet
 **Voir :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Cout]]

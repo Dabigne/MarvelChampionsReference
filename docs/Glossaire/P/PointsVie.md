@@ -9,7 +9,7 @@ Chaque personnage (identité, allié, sbire et méchant) possède une valeur de 
 Certains personnages peuvent avoir un nombre infini de points de vie. Un personnage avec un nombre infini de points de vie ne peut pas être vaincu en subissant des dégâts, car la quantité de dégâts que subit ce personnage n’amènera jamais son nombre de points de vie restants à zéro. Cependant, des dégâts peuvent tout de même être infligés à un personnage avec un nombre infini de points de vie par des attaques et des capacités de carte. 
 
 **Voir aussi :**  
-[[Allie]]  
+[[Allie|Allié]]  
 [[Degats]]  
 [[DegatsSubis]]  
 [[EliminationJoueur]]  

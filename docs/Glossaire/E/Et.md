@@ -4,6 +4,6 @@ Le mot `«et»` indique qu’au moins deux effets à l’intérieur d’une capa
 - Chaque effet connecté par `«et»` peut être annulé ou prévenu indépendamment.
 
 **Voir aussi :**  
-[[Capacite]]  
+[[Capacite|Capacité]]  
 [[Annuler]]  
 [[Prévenir]]

@@ -12,8 +12,8 @@ Une manigance est un type d’activation des ennemis. S’il est demandé à un 
 
 **Voir aussi :**  
 [[Activation]]  
-[[Boost]]  
+[[Boost|Boost, icône de boost]]  
 [[Mechant]]  
-[[PhaseMechant]]  
+[[PhaseMechant|Phase de Méchant]]  
 [[Sbire]]  
 [[Vilenie]]

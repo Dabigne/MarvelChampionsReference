@@ -7,7 +7,7 @@ Si le dernier stade du deck Méchant est vaincu, les joueurs gagnent la partie.
 
 **Voir aussi :**  
 [[Attachement]]  
-[[CartesEtat]]  
+[[CartesEtat|Cartes d’état]]  
 [[Degats]]  
 [[DegatsEnExces]]  
 [[JetonsGeneriques]]  

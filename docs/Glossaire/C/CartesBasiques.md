@@ -6,6 +6,6 @@ Les cartes qui appartiennent à la classification «Basique» sont des cartes qu
 
 **Voir aussi :**  
 [[Classifications]]  
-[[CartesAffinite]]  
+[[CartesAffinite|Cartes d’affinité]]  
 [[Cartes spécifiques à l’identité]]  
 [[Appendice I : Decks Personnalisés]]

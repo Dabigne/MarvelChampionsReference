@@ -5,7 +5,7 @@ Les mots `«quitte le jeu»` font référence à chaque situation pendant laquel
 
 **Voir aussi :**  
 [[Defausser]]  
-[[EnJeuEtHorsJeu]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[EntrerEnJeu]]  
 [[VaincreDejouer|Vaincre, déjouer]]  
 [[PileDefausse]]  

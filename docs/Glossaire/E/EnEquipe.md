@@ -2,8 +2,8 @@
 Le mot-clé `En Équipe` est suivi du nom de deux personnages. Pour inclure une carte avec le mot-clé En Équipe dans votre deck, votre identité doit correspondre au nom d’un de ces deux personnages. De plus, une carte avec le mot-clé `En Équipe` ne peut être jouée que si les deux personnages nommés sont en jeu (en tant qu’identités ou en tant qu’alliés).
 
 **Voir aussi :**  
-[[Allie]]  
-[[EnJeuEtHorsJeu]]  
+[[Allie|Allié]]  
+[[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Identité]]  
 [[Jouer]]  
 [[Mots-clés]]  

@@ -5,8 +5,8 @@ Certaines capacités font référence au nom de cartes spécifiques. Ce sont des
 - Si une carte non autoréférentielle et non spécifique à l’identité fait référence à une carte et qu’il existe plusieurs cartes en jeu ayant ce même nom, le joueur qui résout la capacité peut choisir quelle carte portant ce nom devient la cible de cette capacité.
 
 **Voir aussi :**  
-[[Capacite]]  
-[[Cartes spécifiques à l’identité]]  
+[[Capacite|Capacité]]  
+[[CarteSpecifiqueIdentite|Cartes spécifiques à l’identité]]  
 [[Classifications]]  
 [[Identité]]  
 [[Personnage]]
