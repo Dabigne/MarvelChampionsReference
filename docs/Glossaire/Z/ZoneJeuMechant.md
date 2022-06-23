@@ -10,7 +10,7 @@ La zone de jeu du méchant contient le deck Méchant, le deck Manigance Principa
 [[Attachement]]  
 [[ManigancePrincipale]]  
 [[Mechant]]  
-[[DeckRencontre]]  
+[[DeckRencontre|Deck rencontre]]  
 [[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Environnement]]  
 [[Obligation]]  

@@ -1,4 +1,4 @@
 # Tomber à court de cartes
 **Voir :**  
-[[DeckRencontre]]  
-[[DeckJoueur]]
+[[DeckRencontre|Deck rencontre]]  
+[[DeckJoueur|Deck joueur]]

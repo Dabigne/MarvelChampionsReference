@@ -6,7 +6,7 @@ Une attaque avec le mot-clé `Perçant` défausse toute carte d’état Tenace d
 [[Attaque]]  
 [[CartesEtat|Cartes d’état]]  
 [[Cible]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[MotsCles]]  
 [[Tenace, Ténacité]]  
 [[Texte de rappel]]

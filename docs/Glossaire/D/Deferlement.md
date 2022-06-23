@@ -7,7 +7,7 @@ Si des dégâts en excès sont infligés à un allié lors d’une attaque doté
 [[Allie|Allié]]
 [[Attaque]]
 [[AttaqueEnnemis|Attaque (activation des ennemis)]]
-[[Degats]]
+[[Degats|Dégâts]]
 [[Identité]]
 [[Méchant]]
 [[Mots-clés]]

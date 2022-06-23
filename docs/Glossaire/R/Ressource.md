@@ -6,7 +6,7 @@ Les ressources sont utilisées pour payer le coût pour jouer des cartes et le c
 - Les ressources générées en excès pour n’importe quel coût sont perdues et ne peuvent pas servir à payer des coûts ultérieurs. 
 
 **Voir aussi :**
-[[Cout]]
+[[Cout|Coût]]
 [[Icone]]
 [[Ressource énergie]]
 [[Ressource libre]]

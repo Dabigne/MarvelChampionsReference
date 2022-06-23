@@ -7,7 +7,7 @@ Après qu’un personnage doté de `Riposte X` a été attaqué, infligez X dég
 [[Allies]]  
 [[Attaque (Activation des Ennemis)]]  
 [[Attaque (Action de Joueur)]]  
-[[Dégâts]]  
+[[Degats|Dégâts]]  
 [[Identité]]  
 [[Méchant]]  
 [[Mots-clés]]  

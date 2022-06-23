@@ -15,7 +15,7 @@ Si un joueur révèle une carte Obligation du deck Rencontre et que cette obliga
 
 **Voir aussi :**  
 [[CartesRencontre]]  
-[[DeckRencontre]]  
+[[DeckRencontre|Deck rencontre]]  
 [[EliminationJoueur]]  
 [[EntrerEnJeu]]  
 [[Forme]]  

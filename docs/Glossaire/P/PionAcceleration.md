@@ -8,7 +8,7 @@ Les pions Accélération peuvent entrer en jeu de deux manières différentes :
 Les pions Accélération ne peuvent pas être retirés de la partie. Contrairement aux autres pions, lorsqu’une manigance principale quitte la partie, le pion Accélération n’est pas défaussé.
 
 **Voir aussi :**  
-[[DeckRencontre]]  
+[[DeckRencontre|Deck rencontre]]  
 [[Limitation du matériel]]  
 [[ManigancePrincipale]]  
 [[PhaseMechant|Phase de Méchant]]

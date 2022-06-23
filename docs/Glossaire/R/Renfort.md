@@ -5,7 +5,7 @@ Après qu’une carte Rencontre dotée du mot-clé Renfort a été révélée, l
 
 **Voir aussi :**  
 [[CartesRencontre]]  
-[[DeckRencontre]]  
+[[DeckRencontre|Deck rencontre]]  
 [[MotsCles]]  
 [[Reveler|Révéler]]  
 [[Texte de rappel]]

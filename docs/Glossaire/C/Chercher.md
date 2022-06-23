@@ -5,6 +5,6 @@ Quand il est demandé à un joueur de chercher une carte, ce joueur a le droit d
 - Si une quelconque partie d’un deck est consultée, à cause d’une étape de jeu, une fonction de jeu ou une capacité de carte, mélangez l’intégralité du deck.
 
 **Voir aussi :**  
-[[DeckRencontre]]  
-[[DeckJoueur]]  
+[[DeckRencontre|Deck rencontre]]  
+[[DeckJoueur|Deck joueur]]  
 [[Mélanger]]

@@ -3,5 +3,5 @@
 
 **Voir aussi :**  
 [[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
-[[DansOrdreDesJoueurs]]  
+[[DansOrdreDesJoueurs|Dans l’ordre des joueurs]]  
 [[PhaseMechant|Phase de Méchant]]

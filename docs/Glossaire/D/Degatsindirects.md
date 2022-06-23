@@ -8,6 +8,6 @@ Certaines capacités de carte peuvent infliger des « dégâts indirects ».
 **Voir aussi :**  
 [[Allie|Allié]]  
 [[AttaqueEnnemis|Attaque (activation des ennemis)]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Joueur]]  
 [[Vaincre, déjouer]]

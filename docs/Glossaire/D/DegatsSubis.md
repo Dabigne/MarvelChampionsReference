@@ -5,7 +5,7 @@ Les dégâts subis correspondent à la différence entre les points de vie maxim
 
 **Voir aussi :**  
 [[Allie|Allié]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Identité]]  
 [[Méchant]]  
 [[Points de vie]]  

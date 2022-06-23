@@ -12,7 +12,7 @@ Si le texte d’une carte demande à un joueur de révéler une carte Rencontre 
 **Voir aussi :**  
 [[Attachement]]  
 [[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
-[[DansOrdreDesJoueurs]]  
+[[DansOrdreDesJoueurs|Dans l’ordre des joueurs]]  
 [[EntrerEnJeu]]  
 [[Environnement]]  
 [[Joueur]]  

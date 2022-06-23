@@ -8,7 +8,7 @@ Le deck Rencontre contient les cartes Rencontre (attachements, environnements, m
 
 **Voir aussi :**  
 [[Attachement]]  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[Environnement]]  
 [[Manigance annexe]]  
 [[Pion accélération]]  

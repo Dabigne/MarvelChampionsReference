@@ -30,7 +30,7 @@ Les cartes qui ne sont pas considérées comme une extension de l’identité d�
 [[Amelioration|Amélioration]]  
 [[Capacite|Capacité]]  
 [[CartesJoueur|Cartes joueur]]  
-[[DeckJoueur]]  
+[[DeckJoueur|Deck joueur]]  
 [[Evenement]]  
 [[Identite]]  
 [[Joueur]]  

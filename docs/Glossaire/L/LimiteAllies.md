@@ -5,5 +5,5 @@ Un joueur peut jouer ou mettre en jeu des alliés au-delà de sa limite d’alli
 **Voir aussi :**  
 [[Allie|Allié]]  
 [[Choisir]]  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[EntrerEnJeu]]

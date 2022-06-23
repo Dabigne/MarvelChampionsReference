@@ -6,7 +6,7 @@ Certains effets de jeu et capacités de carte font référence à des tentatives
 
 **Voir aussi :**  
 [[Allie|Allié]]  
-[[Dégâts consécutifs]]  
+[[DegatsConsecutifs|Dégâts consécutifs]]  
 [[Incliné]]  
 [[Manigance annexe]]  
 [[Manigance principale]]  

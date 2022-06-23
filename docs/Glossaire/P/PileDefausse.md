@@ -7,7 +7,7 @@ Une pile de défausse est une zone hors-jeu qui contient des cartes qui ont ét�
 - Toute capacité qui est censée mélanger dans un deck une pile de défausse contenant zéro carte, ne mélange pas le deck.
 
 **Voir aussi :**  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
 [[Melanger]]  

@@ -5,7 +5,7 @@ Un personnage ayant le mot-clé Robuste ne peut pas être sonné ou désorienté
 **Voir aussi :**
 [[Allie|Allié]]
 [[CartesEtat|Cartes d’état]]
-[[Desorienter]]
+[[Desorienter|Désorienter, désorienté]]
 [[GagnerCaracteristique]]
 [[Mechant]]
 [[MotsCles]]

@@ -3,7 +3,7 @@ Une ressource ![[IconeMentale.svg|20]]{: style="height:20px;width:20px"} est un 
 
 **Voir aussi :**  
 [[Capacite|Capacité]]  
-[[Cout]]  
+[[Cout|Coût]]  
 [[Ressource]]  
 [[RessourceEnergie|Ressource Énergie]]  
 [[RessourcePhysique|Ressource physique]]  

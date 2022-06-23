@@ -12,6 +12,6 @@ Quand un ennemi attaque, un joueur a la possibilité de défendre contre cette a
 [[Ami]]  
 [[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[Capacite|Capacité]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Identité]]  
 [[Joueur]]

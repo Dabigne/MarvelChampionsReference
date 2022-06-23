@@ -3,7 +3,7 @@ Une ressource physique ![[IconePhysique.svg|20]]{: style="height:20px;width:20px
 
 **Voir aussi :**  
 [[Capacite|Capacité]]  
-[[Cout]]  
+[[Cout|Coût]]  
 [[Ressource]]  
 [[RessourceEnergie|Ressource Énergie]]  
 [[RessourceLibre|Ressource Libre]]  

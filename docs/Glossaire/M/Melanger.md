@@ -6,5 +6,5 @@ Mélanger est une fonction de jeu qui permet de randomiser le contenu d’un dec
 
 **Voir aussi :**  
 [[Chercher]]  
-[[DeckRencontre]]  
-[[DeckJoueur]]
+[[DeckRencontre|Deck rencontre]]  
+[[DeckJoueur|Deck joueur]]

@@ -10,8 +10,8 @@ Certains personnages peuvent avoir un nombre infini de points de vie. Un personn
 
 **Voir aussi :**  
 [[Allie|Allié]]  
-[[Degats]]  
-[[DegatsSubis]]  
+[[Degats|Dégâts]]  
+[[DegatsSubis|Dégâts subis]]  
 [[EliminationJoueur]]  
 [[GagnerPerdreUneStatistique]]  
 [[Identite]]  

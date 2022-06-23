@@ -6,7 +6,7 @@ Les points de vie restants d’un personnage est la quantité de dégâts que ce
 
 **Voir aussi :**  
 [[Compteur de Points de Vie]]  
-[[DegatsSubis]]  
+[[DegatsSubis|Dégâts subis]]  
 [[Identite]]  
 [[Mechant]]  
 [[PointsVie]]

@@ -25,7 +25,7 @@ Une carte d’état Tenace empêche un personnage de subir des dégâts.
 [[Allie|Allié]]  
 [[AttaqueEnnemis|Attaque (activation des ennemis)]]  
 [[Attaque]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Désorienté]]  
 [[EffetsRemplacement]]  
 [[Méchant]]  

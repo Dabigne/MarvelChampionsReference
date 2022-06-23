@@ -18,5 +18,5 @@ Si ces deux conditions sont remplies, accomplissez les étapes suivantes, dans l
 
 **Voir aussi :**  
 [[Capacite|Capacité]]  
-[[Cout]]  
+[[Cout|Coût]]  
 [[Restrictions et permissions de jeu]]

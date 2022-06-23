@@ -6,6 +6,6 @@ Certaines capacités de cartes peuvent prévenir des dégâts ou des menaces.
 **Voir aussi :**  
 [[Capacite|Capacité]]  
 [[Cible]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[ManiganceTypeCarte]]  
 [[Menace]]

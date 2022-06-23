@@ -12,8 +12,8 @@ Le propriétaire d’une carte est le joueur dont le deck contenait la carte au 
 **Voir aussi :**  
 [[CartesJoueur|Cartes joueur]]  
 [[CartesRencontre]]  
-[[DeckJoueur]]  
-[[DeckRencontre]]  
+[[DeckJoueur|Deck joueur]]  
+[[DeckRencontre|Deck rencontre]]  
 [[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Joueur]]  
 [[Zone de jeu d’un joueur]]  

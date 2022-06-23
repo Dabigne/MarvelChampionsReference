@@ -14,7 +14,7 @@ Si un joueur est éliminé au milieu de la résolution d’une capacité, résol
 [[Attribuer]]  
 [[Capacite|Capacité]]  
 [[CartesJoueur|Cartes joueur]]  
-[[DeckJoueur]]  
+[[DeckJoueur|Deck joueur]]  
 [[Engager]]  
 [[Gagner la partie]]  
 [[Identité]]  

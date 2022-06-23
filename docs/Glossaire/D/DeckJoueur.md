@@ -5,8 +5,8 @@ Un deck Joueur contient les cartes Joueur (alliés, événements, ressources, so
 - Si le deck d’un joueur est vidé et reformé pendant que le joueur défaussait des cartes de son deck, aucune carte n’est défaussée du deck nouvellement formé.
 
 **Voir aussi :**  
-[[DeckRencontre]]  
-[[Defausser]]  
+[[DeckRencontre|Deck rencontre]]  
+[[Defausser|Défausser, défausse]]  
 [[Mélanger]]  
 [[Pile de défausse]]  
 [[Piocher des cartes]]

@@ -7,6 +7,6 @@ Voir aussi :
 [[Allie|Allié]]  
 [[Attaque]]  
 [[ContreContrer|Contre, contrer]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Icônes]]  
 [[Pouvoir de base]]

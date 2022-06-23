@@ -4,8 +4,8 @@ Les dégâts réduisent les points de vie d’un personnage. Si un personnage to
 - Les dégâts sur les alliés et les sbires sont indiqués via des pions Dégât. Si un tel personnage est blessé, placez un nombre de pions Dégât correspondants sur ce personnage.
 
 **Voir aussi :**  
-[[Degatsindirects]]  
-[[Deplacer]]  
+[[DegatsIndirects|Dégâts indirects]]  
+[[Deplacer|Déplacer]]  
 [[Limitation du matériel]]  
 [[Prévenir]]  
 [[Points de vie]]  

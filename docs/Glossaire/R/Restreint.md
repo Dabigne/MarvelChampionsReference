@@ -3,7 +3,7 @@ Un joueur ne peut pas contrôler plus de deux cartes ayant le mot-clé `Restrein
 
 **Voir aussi :**  
 [[Choisir]]  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[JouerDesCartes]]  
 [[Joueur]]  
 [[MotsCles]]  

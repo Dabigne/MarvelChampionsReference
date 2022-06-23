@@ -3,7 +3,7 @@ Les dégâts en excès sont la quantité de dégâts infligés à un personnage 
 
 **Voir aussi :**  
 [[Allie|Allié]]  
-[[Degats]]  
+[[Degats|Dégâts]]  
 [[Identité]]  
 [[Méchant]]  
 [[Points de vie]]  

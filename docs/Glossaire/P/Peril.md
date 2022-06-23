@@ -4,7 +4,7 @@ Tant qu’un joueur résout une carte dotée du mot-clé `Péril`, il ne peut pa
 **Voir aussi :**  
 [[Capacite|Capacité]]  
 [[CapaciteDeclenchee|Capacité déclenchée]]  
-[[Discussions]]  
+[[Discussions|Discussions à la table]]  
 [[MotsCles]]  
 [[Joueur]]  
 [[Texte de rappel]]

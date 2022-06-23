@@ -10,7 +10,7 @@ Les étapes de la phase du Méchant sont les suivantes :
 **Voir aussi :**  
 [[Activation]]  
 [[AttribuerUneCarteRencontre|Attribuer une carte rencontre]]  
-[[DansOrdreDesJoueurs]]  
+[[DansOrdreDesJoueurs|Dans l’ordre des joueurs]]  
 [[Engager]]  
 [[IconeAcceleration]]  
 [[IconeAleas]]  

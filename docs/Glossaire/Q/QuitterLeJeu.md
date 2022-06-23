@@ -4,7 +4,7 @@ Les mots `«quitte le jeu»` font référence à chaque situation pendant laquel
 >Quand une carte quitte le jeu, elle ne conserve pas le statut qu’elle avait juste avant de quitter le jeu, on considère qu’il s’agit d’un nouvel exemplaire de cette carte.
 
 **Voir aussi :**  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[EntrerEnJeu]]  
 [[VaincreDejouer|Vaincre, déjouer]]  

@@ -11,7 +11,7 @@ La zone de jeu d’un joueur contient l’identité de ce joueur, son deck, sa m
 **Voir aussi :**  
 [[Allie|Allié]]  
 [[Amelioration|Amélioration]]  
-[[DeckJoueur]]  
+[[DeckJoueur|Deck joueur]]  
 [[EliminationJoueur]]  
 [[EnJeuEtHorsJeu|En jeu et hors jeu]]  
 [[Identite]]  

@@ -1,4 +1,4 @@
 # DEF
 **Voir :**  
-[[Defendre]]  
+[[Defendre|Défense, défendre]]  
 [[Pouvoir de base]]

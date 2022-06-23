@@ -4,7 +4,7 @@ Chaque carte ayant ce mot-clé possède également une capacité dont le coût f
 Après qu’une carte avec des utilisations a dépensé sa dernière utilisation (et que l’effet a été résolu), défaussez la carte.
 
 **Voir aussi :**  
-[[Defausser]]  
+[[Defausser|Défausser, défausse]]  
 [[EntrerEnJeu]]  
 [[JetonsGeneriques]]  
 [[MotsCles]]  
